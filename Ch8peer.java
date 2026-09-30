@@ -1,4 +1,8 @@
-
+/*
+Anna Moore
+9/30/2026
+Ch8peer
+Find largest value in array */
 import java.util.Scanner;
 public class Ch8peer{
     public static void main(String [] args){
