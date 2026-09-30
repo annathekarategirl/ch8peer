@@ -25,6 +25,11 @@ public class Ch8peer{
         System.out.println("The location of the largest element is at ("+largest[0]+", "+largest[1]+")");
         
     }
+    /**
+     * Return array of highest index in array arg
+     * @param a two dimensional array
+     * @return indicies single dimensional array of indices
+     */
     public static int[] locateLargest(double[][] a){
         
         int[] indicies=new int[2];
